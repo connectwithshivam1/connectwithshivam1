@@ -20,7 +20,7 @@ I am passionate about creating efficient and scalable software solutions. My exp
 
 I am currently open to new opportunities and collaborations. Feel free to reach out to me via email.
 
-📧 Email: [your.email@example.com](mailto:shivam.connect123@gmail.com)
+📧 Email: [shivam.connect123@gmail.com](mailto:shivam.connect123@gmail.com)
 
 ## Let's Connect
 
