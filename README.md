@@ -24,8 +24,8 @@ I am currently open to new opportunities and collaborations. Feel free to reach 
 
 ## Let's Connect
 
-- [LinkedIn](#https://www.linkedin.com/in/shivam-mishra-936775309/)
-- [Twitter](#https://x.com/ShivamVats23669)
+- [LinkedIn](https://www.linkedin.com/in/shivam-mishra-936775309/)
+- [Twitter](https://x.com/ShivamVats23669)
 
 
 Feel free to explore my repositories and reach out if you have any questions or project ideas. Looking forward to connecting with you!
